@@ -45,3 +45,8 @@ yarn hardhat test test/pace.spec.ts
 - 0x3C5c7dd4216C036ef5cA4bb3216295fD4f2A5060 (Airdrop)
 - 0x13Ed3a591F0265dED728a28D24Ed8a540a489036 (Team)
 - 0x147ca5CeD525956931b037725DBC53F695cee049 (Investors)
+
+
+## Add PACE Token to Metamask
+
+https://github.com/MetaMask/contract-metadata/commit/0668ebd0a54946eb4c44b5a9e6708ad1d24c2c49
